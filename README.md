@@ -5,6 +5,7 @@ HOW TO TAKE ADVANTAGE OF THE CNY-CNH SPREAD?
 As China began to open up its economy, it wanted its currency to be used in the international markets to settle trades and financial transactions.  This was the catalyst for the The People’s Bank of China’s (PBoC) decision to create the offshore CNH market.
 
 CNY : Onshore Chinese currency only exchanged in mainland China
+
 CNH : Offshore Chinese currency only exchanged outside of China (Hong Kong, London, Singapore…)
     
 CNY rate is controlled by the PBoC. The currency is non deliverable in the forward market and is convertible only within a Chinese current bank account.
@@ -24,22 +25,33 @@ Should a company have access to both offshore CNH and onshore CNY (via a local m
 2.   Taking commercial advantage of the CNY-CNH price disparity
 
 If CNY > CNH
-    1st Case : You need to buy Renminbi
+    
+    1st Case : You need to buy Renminbi
+    
     You would be better off buying CNH (selling USD)
+    
     Then transfer your CNH to mainland China 
-    Example : Market rate 11th of July, 2016 at 4:23pm
-    USDCNY : 6.6884
-    USDCNH : 6.7010
-    We observe a spread of 18bps (126 pips) between CNY and CNH
+    
+    Example : Market rate 11th of July, 2016 at 4:23pm
+    
+    USDCNY : 6.6884
+    
+    USDCNH : 6.7010
+    
+    We observe a spread of 18bps (126 pips) between CNY and CNH
 
     2nd Case : You need to sell Renminbi
+    
     You would be better off selling CNY as you will receive more USD than making the transaction in the offshore market
 
 If CNY < CNH  
-    1st Case : You need to buy Renminbi
+    
+    1st Case : You need to buy Renminbi
+    
     You would be better off buying CNY
 
     2nd Case : You need to sell Renminbi
+    
     You would be better off selling CNH as you will receive more USD than making the transaction in the onshore market
 
 ----------------------------------------------------------------------------------------------------------------------------------------
